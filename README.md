@@ -18,7 +18,7 @@ If you find our work helpful, please cite:
 > Yi-Cheng Lin, Wei-Chih Chen, Hung-yi Lee.  
 > “Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models,”  
 > *Proceedings of the 2024 IEEE Spoken Language Technology Workshop (SLT 2024)*, pp. 871–878, Dec. 2024.  
-> DOI: 10.1109/SLT61566.2024.10832259 :contentReference[oaicite:0]{index=0}
+> DOI: 10.1109/SLT61566.2024.10832259
 
 ```bibtex
 @inproceedings{lin2024spoken,
@@ -35,7 +35,3 @@ If you find our work helpful, please cite:
 ### Contact
 
 If you have any concerns, please contact: [even.dlion8@gmail.com](mailto:even.dlion8@gmail.com)
-
-```
-::contentReference[oaicite:1]{index=1}
-```
