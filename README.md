@@ -1,6 +1,3 @@
-Here’s the README with a new **Citation** section added, linking to the IEEE page and including the BibTeX entry for the paper:
-
-````markdown
 ## Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models
 This is the official repository for Spoken Stereoset, a dataset measures stereotypical bias on speech large language models (SLLMs). The construction detail can be found in our paper soon.
 
@@ -33,7 +30,7 @@ If you find our work helpful, please cite:
   organization = {IEEE},
   doi          = {10.1109/SLT61566.2024.10832259}
 }
-````
+```
 
 ### Contact
 
