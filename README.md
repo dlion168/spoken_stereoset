@@ -1,4 +1,5 @@
 ## Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models
+[📄 Paper](https://ieeexplore.ieee.org/abstract/document/10832259)
 This is the official repository for Spoken Stereoset, a dataset measures stereotypical bias on speech large language models (SLLMs). The construction detail can be found in our paper soon.
 
 ### Metadata
